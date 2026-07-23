@@ -33,3 +33,10 @@
 //drop table table_name;
 //safer: drop table if exists table_name;
 
+// create table students(
+//   id serial,
+//   name varchar(50),
+//   age int,
+//   isActive boolean,
+//   dob date
+// );
