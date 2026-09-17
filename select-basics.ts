@@ -1,5 +1,7 @@
 //SELECT is used to select a specific value from a list of values. It is often used in conjunction with the FROM clause to specify the source of the data.
 
+//1. ALIAS: An alias is a temporary name given to a table or column in a query. It is often used to make the output more readable or to simplify complex queries. You can create an alias using the AS keyword.
+
 //GROUP BY: The GROUP BY clause is used to group rows that have the same values in specified columns into summary rows.
 
 //2. JOIN: The JOIN clause is used to combine rows from two or more tables based on a related column between them. There are different types of joins, including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN.
